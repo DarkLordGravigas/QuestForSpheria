@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Game.Items.Tools {
 
-    class Axe : Tool {
-        public Axe(string name, MATERIAL material) : base("axe." + name, TOOLTYPE.AXE) { }
+    class Pickaxe : Tool {
+        public Pickaxe(string name, MATERIAL material) : base("tool.pickaxe." + name, TOOLTYPE.PICKAXE, material) { }
     }
 }

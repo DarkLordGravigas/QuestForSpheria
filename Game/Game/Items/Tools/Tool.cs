@@ -6,14 +6,24 @@ using System.Threading.Tasks;
 
 namespace Game.Items.Tools
 {
-    public abstract class Tool
-    {
-        private string _itemname; // Local variable storing the name of the item.
 
-        public Tool(string name) {
-            _itemname = name;
+    public abstract class Tool : Item {
+        private TOOLTYPE _type;
+        private MATERIAL _material;
+
+        public Tool(string name, TOOLTYPE type, MATERIAL material) : base("tool." + name) { 
+            _type = type; 
+            _material = material;
         }
 
-        public string ItemName { get { return _itemname; } }
+        public TOOLTYPE Type { get { return _type; }}
     }
+
+    public enum TOOLTYPE { 
+        AXE, 
+        PICKAXE, 
+        SHOVEL, 
+        FISHING_ROD 
+    };
+
 }

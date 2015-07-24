@@ -1,4 +1,5 @@
-﻿using Game.Items.Tools;
+﻿using Game.Items;
+using Game.Items.Tools;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,11 +12,15 @@ using System.Windows.Forms;
 
 namespace Game {
     public partial class Main : Form {
-        public Main() { InitializeComponent(); }
+
+        public Main() { 
+            InitializeComponent(); 
+        }
 
         private void Main_Load(object sender, EventArgs e) {
-            Axe axe = new Axe("copperaxe");
-            MessageBox.Show(axe.ItemName);
+
+            MessageBox.Show(ItemManager.copperAxe.ItemName);
+
         }
     }
 }
