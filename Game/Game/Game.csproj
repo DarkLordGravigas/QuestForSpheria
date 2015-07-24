@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Items\Tools\Axe.cs" />
+    <Compile Include="Items\Tools\Tool.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
