@@ -50,6 +50,8 @@
     <Compile Include="Items\Tools\Axe.cs" />
     <Compile Include="Items\Tools\Pickaxe.cs" />
     <Compile Include="Items\Tools\Tool.cs" />
+    <Compile Include="Items\Weapons\Sword.cs" />
+    <Compile Include="Items\Weapons\Weapon.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +85,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
