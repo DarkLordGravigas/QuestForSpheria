@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Game.Items.Tools {
 
     class Axe : Tool {
-        public Axe(string name, MATERIAL material) : base("axe." + name, TOOLTYPE.AXE) { }
+        public Axe (string name, MATERIAL material) : base("axe." + name, TOOLTYPE.AXE, material) { }
     }
 }
