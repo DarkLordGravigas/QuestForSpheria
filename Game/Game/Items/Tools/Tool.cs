@@ -23,6 +23,7 @@ namespace Game.Items.Tools {
         AXE, 
         PICKAXE, 
         SHOVEL, 
-        FISHING_ROD 
+        FISHINGROD 
     }
+
 }
