@@ -20,5 +20,4 @@ namespace Game.Items.Weapons {
         CLEAVER,
         RAPIER
     }
-
 }

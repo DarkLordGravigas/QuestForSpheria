@@ -23,5 +23,4 @@ namespace Game.Items.Weapons {
         SNIPER,
         ROCKETLAUNCHER
     }
-
 }

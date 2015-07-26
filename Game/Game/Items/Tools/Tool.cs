@@ -26,5 +26,4 @@ namespace Game.Items.Tools {
         FISHINGROD ,
         WEAPON
     }
-
 }
