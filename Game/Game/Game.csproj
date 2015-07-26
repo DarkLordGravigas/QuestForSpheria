@@ -50,6 +50,8 @@
     <Compile Include="Items\Tools\Axe.cs" />
     <Compile Include="Items\Tools\Pickaxe.cs" />
     <Compile Include="Items\Tools\Tool.cs" />
+    <Compile Include="Items\Weapons\Bow.cs" />
+    <Compile Include="Items\Weapons\Gun.cs" />
     <Compile Include="Items\Weapons\Sword.cs" />
     <Compile Include="Items\Weapons\Weapon.cs" />
     <Compile Include="Main.cs">
