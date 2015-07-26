@@ -10,7 +10,7 @@ namespace Game.Items.Tools {
         private TOOLTYPE _tooltype;
         private MATERIAL _material;
 
-        public Tool (string name, TOOLTYPE type, MATERIAL material) : base("tool." + name) {
+        public Tool(string name, TOOLTYPE type, MATERIAL material) : base("tool." + name) {
                 _tooltype = type; 
                 _material = material;
         }
