@@ -24,7 +24,8 @@ namespace Game.Items.Weapons {
         LONGSWORD,
         SHORTSWORD,
         CLEAVER,
-        RAPIER
+        RAPIER,
+        KNIFE
     }
 
 }
