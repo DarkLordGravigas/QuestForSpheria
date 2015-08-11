@@ -1,0 +1,225 @@
+ok this is what i think i need to do on the project.
+
+1. finish the list of items for. more precision.
+
+item category goes into;
+1. Consumables
+2. Useables but not finite.
+3. Key items.
+
+gear
+1. Weapons.
+2. Armor.
+3. Accessories.
+4. Tools and Toolkits
+
+Collectibles
+1.Memory fragments
+2.Soul Shards
+3.Dlc Cards(we'll see about introducing a special DLC event.)
+4.Game Tags(hidden easter eggs)
+
+Consumables
+1.Medicine(Potions and tonics)
+2.Treatment items(Ointments and bandages to name a few)
+3.Modules( they get used up when placed)
+4.Food items(cant use food items in battle)
+5.special use items(ill give it a propper name eventually for this category)
+
+Useables
+1.Tech discs(kind of like tms and hms in pokemon)
+2.Vector items(will have a V on the bottom right corner of icon if its a vector item)
+3.Quest items( to help with gathering quests and crafting quests)
+
+Key items
+1.are static Key items
+2.are dynamic Key items
+
+big diff is normal key items that don't change are static items but some special key items will change with time or achievements. another unique feature. they are also called "Morph type Key".
+
+Weapons
+ok here is going to be the really important list
+
+Axes
+Maces
+Spears
+Polearms
+Bows
+Knives(dagger)
+Fists
+Katars(claws)
+Whips
+Staves
+wands
+Prisms
+
+1.  1 handed swords
+2.  1 handed axes
+3.  1 handed maces
+4.  Daggers
+5.  Fists
+6.  Claws
+7.  2h swords
+8.  2h axes
+9.  2h hammers
+10. Polearms
+11. Spears
+12. Whips
+13. Stalves
+14. Wands
+15. Prism
+16. Shortbows
+17. Longbows
+18. Crossbows
+19. Thrown weapons
+20. Lances
+21. Grimoires
+
+no more types from here on out.
+
+Equipment
+
+armor
+1.head
+2.body
+3.arms
+4.waist
+5.legs
+6.boots
+7.shields
+
+accessories.
+1.earrings(not recomended for helmet users)cant wear a helment and earrings
+2.pendants(amulets and pendants are not the same things)
+3.bracelets can be worn over armor but not plated or chainmail)
+4.rings ( they can be worn regardless of armor type)
+5.belts(counts as an accessory since its not armor)
+6 backpacks(counts as an accessory but allows you to carry many things at once. better bags mean more pouches)
+7 special accessories( a magical Glove fits this since it can be worn under armor) allows spellcasting without an implement and reduces cost of spell amulets)
+
+ok now onto materials.
+
+normal weapon(excluding magical arms)
+metals
+
+copper ore
+Tin ore
+Bronze ingots(has to be crafted)
+
+Iron ore
+steel ingot(yup you cant 'find' steel)
+
+silver ore(slaying type weapons)
+gold ore(rejuvenative types)
+platinum ore(energy reserves)
+(these ores above are for magical versions)
+
+Mythril
+Adamantine
+Damascus
+Orichalcum
+(these ones are for high end weapons
+
+wooden handles all weapons need wood for a comfortable handle
+Woods
+
+plain wood(wood from young trees)
+
+softwoods
+red pine
+white pine
+Luar pine
+Sylis pine
+Merkas pine
+Douglas fir
+Longleaf pine
+Yew
+(Last three are hardest for the softwoods) used for buildings and bows.
+
+Hardwoods(like elm or oak make for great handles)
+Ash
+Birch
+Poplar
+Walnut 
+Willow
+Plum
+Cherry
+Ebony
+Elm
+Oak
+(Fruit trees have more magical properties and therefore more usefull as magical staves and wands)
+Birch makes for good paper materials(like scrolls and grimoires)
+
+Leathers(always need leathers for bindings covers and straps,
+
+Leathers
+
+Pig 
+cow
+Sheep
+(book bindings, straps and parchments)
+
+Wolf
+Bear
+Boar
+Tiger
+panther
+lion
+(meant for light armor)
+
+rhino
+elephant 
+hippo
+(Meant for heavy armor)
+
+(we replace the animal names with special utility Spheria matching the themes)
+
+now
+
+on to stones
+2 types
+
+Stone Type
+coal
+shale
+sandstone
+limestone
+Chalk
+Talcum
+basalt
+Granite
+marble
+geostone
+Arcum
+
+Crystals
+Apatite
+Quartz
+Topaz
+Jasper
+Aquamarine
+Obsidian
+Jade
+Emerald
+saphire
+Ruby
+Diamond
+Zircon
+
+basically stones are for uses outside of gear or jewelry, usually contruction or alchemy.
+while crystals are usually used for decorative and magical purposes.
+
+now lets crunch the templates for the weapons.
+
+weapon attributes
+
+varP(name)VarS
+Damage:
+Balance:
+Crit:
+Durability:
+Type:(Blunt, Slahing, Piercing)
+Effects:(Later we'll have an upgrade system for that)
+Threshold:(weapons have 7 upgrades max and armors have 5 max)
+description:(flavor text talks about weapons... secret ability)
+

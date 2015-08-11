@@ -1,0 +1,50 @@
+Weapons(class of weapons)
+Swords
+Axes
+Maces
+Spears
+Polearms
+Bows
+Knives
+Fists
+Katars
+Whips
+Staves
+wands
+Prisms
+
+2 types(swords, axes, maces and spears)
+
+2 handed default(Polearms, bows, staves)
+
+dual wield default(knives, fists, katars, prisms)
+
+single handed default(whips, wands)
+
+thats it for weapons
+
+tools
+
+*toolkit(*=Skill) needed  for operating crafting stations
+-Replaces hammer saw alchemy set and mortar and pestle
+
+Engineering toolkit(Module creation)
+Smithing toolkit(for smithing metal goods)
+Refining toolkit(use for alchemy stations and smithing stations for refining ores and creating alloys)
+Carpentry toolkit(create buildings, furniture, decorations)
+Alchemy toolkit(create new materials through combinations)
+Medicinal toolkit( creation of medicine tonics and bandages)
+Masonry toolkit(create buildings, furniture, decorations)
+Magical engineering toolkit(create moves and spells)
+Biology toolkit(monster making kit)
+
+
+
+gathering tools
+Axe
+Pickaxe
+Fishing rod
+Carving knife 
+Net
+Sickle
+Hoe
