@@ -1,44 +1,56 @@
-ok this is what i think i need to do on the project.
+This is what i think i need to do on the project.
 
-1. finish the list of items for. more precision.
+1. Finish item list with more precision.
 
-item category goes into;
+
+== CATEGORIES ==
+
 1. Consumables
 2. Useables but not finite.
 3. Key items.
 
-gear
+
+== GEAR ==
+
 1. Weapons.
 2. Armor.
 3. Accessories.
 4. Tools and Toolkits
 
-Collectibles
+
+== COLLECTIBLES ==
+
 1.Memory fragments
 2.Soul Shards
-3.Dlc Cards(we'll see about introducing a special DLC event.)
-4.Game Tags(hidden easter eggs)
+3.Dlc Cards (we'll see about introducing a special DLC event.)
+4.Game Tags (hidden easter eggs)
 
-Consumables
+
+== CONSUMABLES ==
+
 1.Medicine(Potions and tonics)
 2.Treatment items(Ointments and bandages to name a few)
 3.Modules( they get used up when placed)
 4.Food items(cant use food items in battle)
 5.special use items(ill give it a propper name eventually for this category)
 
-Useables
+
+== USEABLES ==
+
 1.Tech discs(kind of like tms and hms in pokemon)
 2.Vector items(will have a V on the bottom right corner of icon if its a vector item)
 3.Quest items( to help with gathering quests and crafting quests)
 
-Key items
+
+== KEY ITEMS ==
+
 1.are static Key items
 2.are dynamic Key items
 
 big diff is normal key items that don't change are static items but some special key items will change with time or achievements. another unique feature. they are also called "Morph type Key".
 
-Weapons
-ok here is going to be the really important list
+
+== WEAPONS (IMPORTANT) ==
 
 Axes
 Maces
@@ -77,7 +89,8 @@ Prisms
 
 no more types from here on out.
 
-Equipment
+
+== EQUIPMENT ==
 
 armor
 1.head
@@ -97,7 +110,8 @@ accessories.
 6 backpacks(counts as an accessory but allows you to carry many things at once. better bags mean more pouches)
 7 special accessories( a magical Glove fits this since it can be worn under armor) allows spellcasting without an implement and reduces cost of spell amulets)
 
-ok now onto materials.
+
+== MATERIALS ==
 
 normal weapon(excluding magical arms)
 metals
@@ -152,7 +166,8 @@ Birch makes for good paper materials(like scrolls and grimoires)
 
 Leathers(always need leathers for bindings covers and straps,
 
-Leathers
+
+== LEATHERS ==
 
 Pig 
 cow
@@ -174,9 +189,9 @@ hippo
 
 (we replace the animal names with special utility Spheria matching the themes)
 
-now
 
-on to stones
+== STONES ==
+
 2 types
 
 Stone Type
@@ -209,9 +224,8 @@ Zircon
 basically stones are for uses outside of gear or jewelry, usually contruction or alchemy.
 while crystals are usually used for decorative and magical purposes.
 
-now lets crunch the templates for the weapons.
 
-weapon attributes
+== WEAPONS ATTRIBUTES ==
 
 varP(name)VarS
 Damage:
