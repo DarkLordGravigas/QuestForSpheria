@@ -37,15 +37,15 @@ This is what i think i need to do on the project.
 
 == USEABLES ==
 
-1.Tech discs(kind of like tms and hms in pokemon)
-2.Vector items(will have a V on the bottom right corner of icon if its a vector item)
-3.Quest items( to help with gathering quests and crafting quests)
+1.Tech Records (kind of like tms and hms in pokemon)
+2.Vector Items (will have a V on the bottom right corner of icon if its a vector item)
+3.Quest Items (to help with gathering quests and crafting quests)
 
 
 == KEY ITEMS ==
 
-1.are static Key items
-2.are dynamic Key items
+1.Are static Key Items
+2.Are dynamic Key Items
 
 big diff is normal key items that don't change are static items but some special key items will change with time or achievements. another unique feature. they are also called "Morph type Key".
 
