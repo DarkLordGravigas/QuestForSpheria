@@ -1,0 +1,76 @@
+Notes on formulas.
+
+Damage calculations
+
+step one turn order
+ player damage calculation ->move value-> stat value-> weapon value
+(base value+(stat mod))+weapon mod
+
+Move Smash
+Base attack 30
+usage tracker
+mastery level
+N=starting attack 30
+f Ba=+5
+e Ba=+5
+d Ba=+5
+c Ba=+5
+b Ba=+5
+a Ba=+5
+S Ba=+5
+M Ba=+5
+
+tier*5=total rank increase
+
+TBA=BA+((move rank#)*(TM))
+
+f=1
+e=2
+d=3
+c=4
+b=5
+a=6
+s=7
+m=8
+
+tiers
+1BA(30)
+2BA(50)
+3BA(70)
+4BA(90)
+5BA(110)
+6BA(130)
+7BA(150)
+8BA(180)
+9BA(200)
+10BA(220)
+11BA(240)
+
+Moves
+
+we have four types of moves
+1st is active
+2nd is passive
+3rd is seed
+4rth is bloom
+
+Now actives and passives are unlocked as you level up seed moves
+seed moves continue to unlock moves and skills.
+
+example
+
+Smash seed(spending soul fragments)
+once you reach a certain tier you unlock skills
+now skills that do this a seed. certain moves 
+evolve like this.
+
+smash seed improves by talking to Luku
+ and making a soulberry. these berries give soul energy to the main soulbar
+ which the player can choose to allocate exp to a seed or a bloom.
+
+blooms are advanced moves that are stronger.
+
+example smash is tier1
+but because its a seed it gets a secondary bar for a different kind of exp.
+when that bar fills up it gains a soul level this reaches a certain range like for example
+smashes SL= 200 a new branch appears.
